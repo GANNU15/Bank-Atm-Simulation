@@ -29,8 +29,9 @@ This is a **console-based Bank ATM Simulation project** developed using **Java**
 
 ATM-Simulation/
 │
-├── Main.java // Entry point and main menu logic
-├── ATM.java // Contains synchronized methods: checkBalance() and withdraw()
+├── test.java // Entry point and main menu logic
+├── Atm.java // It implements Runnable and simple pojo class with run() method.
+├── BankAccount.java // Contains synchronized methods: checkBalance() and withdraw()
 ├── README.md
 
 
